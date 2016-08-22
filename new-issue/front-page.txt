@@ -6,12 +6,14 @@ Serving you daily printed news since before newspapers went online.
 
 ## Local News (updated hourly)
 * Cat stuck in the tree
+## Local News
+* Cat stuck in the tree <--- is this seriously worthy of front page news?!
 * Paws at the Pumpkin Patch
 * Soduku craze
 
 ## Sports
 * Highschool basketball
-* Ping pong championship
+* Table tennis championship
 * Upcoming track meet
 
 ## Culture
@@ -20,7 +22,7 @@ Serving you daily printed news since before newspapers went online.
 * Open greenhouse gardening
 
 ## Weekly Weather
-Sunday:    SUNNY
+Sunday:    KINDA SUNNY
 Monday:    DOWNPOUR
 Tuesday:   CLOUDY
 Wednesday: SUNNY
