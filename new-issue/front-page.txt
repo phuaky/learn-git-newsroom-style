@@ -4,21 +4,47 @@ June 27, 2016
 # The Buglae Herald
 Serving you daialy printed news since before newspapers went online a
 
-## Locala News (updated hourly)
-* Cat stuack in the tree
-## Local Newsa
+## Local News (updated hourly)
+* Cat stuck in the tree
+* Paws at the Pumpkin Patch
+* Soduku craze
+
+## Sports
+* Highschool basketball
+
+* Ping pong championship
+* Upcoming track meet
+
+* Table tennis championship
+* Upcoming track meet
+
+## Culture
+* Battle of the bands
+* Board game tournament
+* Open greenhouse gardening
+
+## Weekly Weather
+Sunday:    KINDA SUNNY
+Monday:    DOWNPOUR
+Tuesday:   CLOUDY
+Wednesday: SUNNY
+Thursday:  LIGHT SHOWERS
+Friday:    SUNNY
+Saturday:  DOWNPOUR
+
+## Local News (updated hourly)
 * Cat stuck in the tree <--- is this seriously worthy of front page news?!
 * Paws at the Pumpkin Patch
 * Soduku craze
 
-## Spoarts
+## Sports
 * Highschool basketball a
-* Table taennis championship
+* Table tennis championship
 * Upcoming track meet
 
-## Cultuare
+## Culture
 * Battle of the bands
-* Boaard game tournament
+* Board game tournament
 * Open greenhouse gardening
 
 ## Weekly Weather
@@ -28,7 +54,7 @@ Tuesday:   CLOUDY
 Wednesday: SUNNYa
 Thursday:  LIGHT SHOWERS
 Friday:    SUNNY
-Saturaday:  DOWNPOUR
+Saturday:  DOWNPOUR
 
 June 27, 2016
-25 cents
+$99999999999999999 decibillion
