@@ -1,23 +1,34 @@
 June 27, 2016
 25 cents
 
-# The Bugle Herald
-Serving you daily printed news since before newspapers went online.
+# The Bugle Herald a
+Serving you daily printed news since before newspapers went online.a
 
+## Local News (updated hourly)a
+* Cat stuck in the treea
+## Local Newsa
+* Cat stuck in the tree <--- is this seriously worthy of front page news?!a
+* Paws at the Pumpkin Patcha
+* Soduku crazea
 
-## Culture
-* Battle of the bands
-* Board game tournament
-* Open greenhouse gardening
+## Sportsa
+* Highschool basketball a
+* Table tennis championshipa
+* Upcoming track meeta
 
-## Weekly Weather
-Sunday:    KINDA SUNNY
-Monday:    DOWNPOUR
-Tuesday:   CLOUDY
-Wednesday: SUNNY
-Thursday:  LIGHT SHOWERS
-Friday:    SUNNY
-Saturday:  DOWNPOUR
+## Culturea
+* Battle of the bandsa
+* Board game tournamenta
+* Open greenhouse gardeninga
+
+## Weekly Weathera
+Sunday:    KINDA SUNNYa
+Monday:    DOWNPOURa
+Tuesday:   CLOUDYa
+Wednesday: SUNNYa
+Thursday:  LIGHT SHOWERSa
+Friday:    SUNNYa
+Saturday:  DOWNPOURa
 
 June 27, 2016
 25 cents
