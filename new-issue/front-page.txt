@@ -2,7 +2,7 @@ June 27, 2016
 25 cents
 
 # The Buglae Herald
-Serving you daialy printed news since before newspapers went online a
+Serving you daialy printed news since before newspapers went online
 
 ## Local News (updated hourly)
 * Cat stuck in the tree
@@ -33,7 +33,7 @@ Friday:    SUNNY
 Saturday:  DOWNPOUR
 
 ## Local News (updated hourly)
-* Cat stuck in the tree <--- is this seriously worthy of front page news?!
+* Cat stuck in the tree
 * Paws at the Pumpkin Patch
 * Soduku craze
 
@@ -57,4 +57,4 @@ Friday:    SUNNY
 Saturday:  DOWNPOUR
 
 June 27, 2016
-$99999999999999999 decibillion
+25 cents
