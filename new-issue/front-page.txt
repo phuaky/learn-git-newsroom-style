@@ -5,25 +5,28 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+* Cat stuck in the tree
+* Paws at the Pumpkin Patch
+* Soduku craze
 
 ## Sports
-* headline
-* headline
+* Highschool basketball
+* Ping pong championship
+* Upcoming track meet
 
 ## Culture
-* headline
-* headline
+* Battle of the bands
+* Board game tournament
+* Open greenhouse gardening
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    SUNNY
+Monday:    DOWNPOUR
+Tuesday:   CLOUDY
+Wednesday: SUNNY
+Thursday:  LIGHT SHOWERS
+Friday:    SUNNY
+Saturday:  DOWNPOUR
 
 June 27, 2016
 25 cents
